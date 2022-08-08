@@ -1,0 +1,10 @@
+default['shutdownfilepath'] = "/tmp/shutdown.txt"
+default['shutdowncontent']  = "shutdown"
+default['deployfilepath'] = "/tmp/deploy.txt"
+default['deploycontent']  = "deploy"
+default['undeployfilepath'] = "/tmp/deploy.txt"
+default['undeploycontent']  = "deploy"
+default['setupfilepath'] = "/tmp/setup.txt"
+default['setupcontent']  = "setup"
+default['configurefilepath'] = "/tmp/configure.txt"
+default['configurecontent'] = 'configure'

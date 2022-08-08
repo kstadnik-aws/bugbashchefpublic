@@ -1,0 +1,5 @@
+name 'newcookbook'
+maintainer 'AWS Systems Manager'
+license 'MIT-0'
+description 'AWS-ApplyChefRecipes example cookbook'
+version '2.0.0'
